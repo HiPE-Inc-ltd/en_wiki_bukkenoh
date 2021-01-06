@@ -24,13 +24,13 @@ If the person in charge finished checking the status will be set to " <span styl
 
 ### Backlog Interface
 
-* <p style="color:#ED1C24; font-weight: bold">Project Key</p> - The ID for the project. 
+*  ![#ED1C24](https://via.placeholder.com/15/ED1C24/000000?text=+) Project Key - The ID for the project. 
 
-*  <span style="color:#3F48CC; font-weight: bold">Wiki</span> - Where the env config can be found.
+*  ![#3F48CC](https://via.placeholder.com/15/3F48CC/000000?text=+) Wiki - Where the env config can be found.
 
-*  <span style="color:#E8DC00; font-weight: bold">Files</span> - Where the image and the design data is located.
+*  ![#E8DC00](https://via.placeholder.com/15/E8DC00/000000?text=+) Files - Where the image and the design data is located.
 
-*  <span style="color:#A349A4; font-weight: bold">Git</span> - Where the source code link is located. You can view your branch changes.
+*  ![#A349A4](https://via.placeholder.com/15/A349A4/000000?text=+) Git- Where the source code link is located. You can view your branch changes.
 
 ![image info](./images/img_wiki_backlog_interface.png)
 
