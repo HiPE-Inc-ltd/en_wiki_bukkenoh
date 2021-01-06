@@ -24,7 +24,7 @@ If the person in charge finished checking the status will be set to " <span styl
 
 ### Backlog Interface
 
-* <span style="color:#ED1C24; font-weight: bold">Project Key</span> - The ID for the project. 
+* <p style="color:#ED1C24; font-weight: bold">Project Key</p> - The ID for the project. 
 
 *  <span style="color:#3F48CC; font-weight: bold">Wiki</span> - Where the env config can be found.
 
