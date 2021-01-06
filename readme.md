@@ -1,5 +1,5 @@
 # BUKKENOH GUIDE
-***
+
 ## Introduction
 
 This guide is for english employees.
