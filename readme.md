@@ -24,13 +24,13 @@ If the person in charge finished checking the status will be set to " <span styl
 
 ### Backlog Interface
 
-*  ![#ED1C24](https://via.placeholder.com/15/ED1C24/000000?text=+) Project Key - The ID for the project. 
+*   Project Key - The ID for the project. 
 
-*  ![#3F48CC](https://via.placeholder.com/15/3F48CC/000000?text=+) Wiki - Where the env config can be found.
+*   Wiki - Where the env config can be found.
 
-*  ![#E8DC00](https://via.placeholder.com/15/E8DC00/000000?text=+) Files - Where the image and the design data is located.
+*   Files - Where the image and the design data is located.
 
-*  ![#A349A4](https://via.placeholder.com/15/A349A4/000000?text=+) Git- Where the source code link is located. You can view your branch changes.
+*   Git- Where the source code link is located. You can view your branch changes.
 
 ![image info](./images/img_wiki_backlog_interface.png)
 
