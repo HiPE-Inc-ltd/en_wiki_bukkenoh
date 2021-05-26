@@ -10,9 +10,15 @@ __When pushing local to a issued key__
 
 __Create a pull request__
 
+1. go to git tab in the issue page
+2. click on pull request
+3. click on plus sign
+4. make sure you are pushing to the correct branch
+
 __Revert a commit to previous commit using Force Push__
 
 ex.
+
 ![image info](./images/img_wiki_backlog_git_forcepush.png)
 
 1. get the previous official commited hash of the target branch;
