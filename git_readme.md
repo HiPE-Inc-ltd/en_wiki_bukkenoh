@@ -20,9 +20,10 @@ __Revert a commit to previous commit using Force Push__
 ex.
 
 ![image info](./images/img_wiki_backlog_git_forcepush.png)
-
 1. get the previous official commited hash of the target branch;
+
 ex.
+
 ![image info](./images/img_wiki_backlog_git_prevhash01.png)
 
 ![image info](./images/img_wiki_backlog_git_prevhash02.png)
